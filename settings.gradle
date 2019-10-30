@@ -1,2 +1,2 @@
-include ':app', ':p0011firstproject', ':p0021basicviews', ':p0030layouts'
+include ':app', ':p0011firstproject', ':p0021basicviews', ':p0030layouts', ':p0040screens'
 rootProject.name='Androidlessons'
